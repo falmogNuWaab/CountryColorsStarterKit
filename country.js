@@ -1,4 +1,5 @@
-class Country {
+/*
+class CountryJS {
     constructor(name, lang, greeting, colors) {
         this.name = name;
         this.lang = lang;
@@ -27,3 +28,4 @@ function SwitchCountry() {
     }
 
 }
+*/
